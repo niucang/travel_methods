@@ -1,0 +1,26 @@
+{
+  "name": "travel_methods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "travel_methods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niucang/travel_methods.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "niucang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niucang/travel_methods/issues"
+  },
+  "homepage": "https://github.com/niucang/travel_methods",
+  "dependencies": {
+    "request": "2.76.0",
+    "promise": "7.1.1"
+  }
+}
